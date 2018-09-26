@@ -4,7 +4,7 @@
 
 This is the research code for the CVIU 2017 paper: 
 
-[Chao Ma](https://sites.google.com/site/chaoma99/), [Chih-Yuan Yang](https://scholar.google.com/citations?user=eUbmKwYAAAAJ&hl=en), [Xiaokang Yang](http://english.seiee.sjtu.edu.cn/english/detail/842_802.htm), and [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/), " Learning a No-Reference Quality Metric for Single-Image Super-Rolution", CVIU 2017. 
+[Chao Ma](https://www.chaoma.info), [Chih-Yuan Yang](https://scholar.google.com/citations?user=eUbmKwYAAAAJ&hl=en), [Xiaokang Yang](http://english.seiee.sjtu.edu.cn/english/detail/842_802.htm), and [Ming-Hsuan Yang](http://faculty.ucmerced.edu/mhyang/), " Learning a No-Reference Quality Metric for Single-Image Super-Rolution", CVIU 2017. 
 
 For more details, please visit our [Project page](https://sites.google.com/site/chaoma99/sr-metric)
 
